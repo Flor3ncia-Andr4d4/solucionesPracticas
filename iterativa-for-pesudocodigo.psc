@@ -4,5 +4,5 @@ Algoritmo Mostrar_Numeros
     
     Desde i = 0 hasta numero hacer
         Escribir i
-    Fin Desde
+    Fin para
 Fin Algoritmo
